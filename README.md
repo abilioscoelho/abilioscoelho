@@ -30,14 +30,8 @@ Brazilian full stack developer. Javascript, React, React Native and Node.js enth
 <a href="https://codepen.io/abiliocoelho"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
-## 🌟 Github Badges
-<p>
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" height="24px">
-<img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif" height="24px">
-</p>
-
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=abiliocoelho&show_icons=true"><p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=abilioscoelho&show_icons=true"><p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abiliocoelho&layout=compact"><p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abilioscoelho&layout=compact"><p>
